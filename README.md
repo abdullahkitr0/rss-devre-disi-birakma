@@ -17,8 +17,9 @@
    git clone https://github.com/abdullahkitr0/rss-devre-disi-birakma.git
    ```
 2. `rss-devre-disi-birakma` klasörünü WordPress kurulumunuzun `wp-content/plugins/` dizinine yükleyin.
-3. WordPress yönetim paneline gidin ve **Eklentiler** sekmesinden eklentiyi aktif edin.
-4. Artık RSS ve Atom beslemeleriniz devre dışı bırakılmıştır.
+3. Yada WordPress Plugin [RSS Devre Dışı Bırakma](https://wordpress.org/plugins/rss-devre-disi-birakma/) buradan kurup etkinleştirebilirisiniz.
+4. WordPress yönetim paneline gidin ve **Eklentiler** sekmesinden eklentiyi aktif edin.
+5. Artık RSS ve Atom beslemeleriniz devre dışı bırakılmıştır.
 
 ## 📖 Kullanım
 
